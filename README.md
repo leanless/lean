@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @swxftyy
-- 👀 I’m interested in breaking things.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on [N/A]
-- 📫 How to reach me: swiftyy#0001 on Discord.
+lean tbh
